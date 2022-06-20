@@ -55,3 +55,8 @@
 
 ## Dashboarding Preview
 
+![Dashboard 1](https://user-images.githubusercontent.com/92160667/174580725-eb21ca08-c744-486e-a272-98324adfd59b.png)
+
+![Dashboard 2](https://user-images.githubusercontent.com/92160667/174580762-a3d82586-19d2-4d62-ab74-176467c55f73.png)
+
+
